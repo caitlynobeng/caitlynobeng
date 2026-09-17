@@ -5,11 +5,6 @@ I'm Caitlyn, a Computer Science student at Temple University
 who enjoys building things, solving problems, and learning
 how technology works.
 
-🌐 Network Engineering  
-💻 Computer Science  
-🔐 Cybersecurity  
-🌱 Always learning something new
-
 <div align="center">
   <img src="welcome.gif" width="500">
 </div>
@@ -22,7 +17,7 @@ how technology works.
 
 🎓 Studying Computer Science at Temple University  
 🌐 Network Engineer Intern at Lincoln Financial  
-💻 Interested in software, networking, and cybersecurity  
+💻 Interested in software and networking
 🤝 NSBE Pre-Collegiate Initiative Co-Chair  
 👩🏾‍🏫 Former programming instructor
 
@@ -38,21 +33,10 @@ how technology works.
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Networking**  
-Cisco Switching • TCP/IP • VLANs • Wireshark
-
-**Tools & Systems**  
-Linux • Git • GitHub • SolarWinds • ServiceNow • PuTTY
-
----
-
-## 🚀 Featured Project
-
-### 🌐 Network Diagnostic Tool
-
-A lightweight Bash-based tool built on Ubuntu to automate
-connectivity, DNS, and latency checks for network troubleshooting.
-
----
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌱 Currently learning
 
