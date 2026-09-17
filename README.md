@@ -9,7 +9,9 @@ how technology works.
 🔐 Cybersecurity  
 🌱 Always learning something new
 
-<img src="welcome.gif" width="500">
+<div align="center">
+  <img src="welcome.gif" width="500">
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN)
 
