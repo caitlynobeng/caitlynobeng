@@ -1,5 +1,6 @@
+<div align="center">
 ## Hi there 👋🏾
-
+</div>
 I'm Caitlyn, a Computer Science student at Temple University
 who enjoys building things, solving problems, and learning
 how technology works.
